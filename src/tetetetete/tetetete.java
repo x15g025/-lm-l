@@ -6,6 +6,7 @@ public class tetetete {
 		// TODO 自動生成されたメソッド・スタブ
 
 		System.out.print("ada");
+		System.out.printf("apoawpdawpodajw");
 	}
 
 }
